@@ -1,0 +1,12 @@
+Epoch 1: Loss=6.0049 BLEU=9.65
+Epoch 2: Loss=5.2263 ValLoss=5.2173 BLEU=10.29
+Epoch 3: Loss=4.7946 ValLoss=5.0645 BLEU=8.81
+Epoch 4: Loss=4.5101 ValLoss=4.9813 BLEU=9.17
+Epoch 5: Loss=4.2961 ValLoss=4.9162 BLEU=8.47
+Epoch 6: Loss=4.1189 ValLoss=4.8396 BLEU=8.68
+Epoch 7: Loss=3.9762 ValLoss=4.8885 BLEU=8.63
+Epoch 8: Loss=3.8413 ValLoss=4.8422 BLEU=8.55
+Epoch 9: Loss=3.7355 ValLoss=4.8838 BLEU=8.54
+Epoch 10: Loss=3.6416 ValLoss=4.8558 BLEU=8.00
+Epoch 11: Loss=3.5487 ValLoss=4.9230 BLEU=8.04
+Epoch 12: Loss=3.4694 ValLoss=4.8630 BLEU=7.92
