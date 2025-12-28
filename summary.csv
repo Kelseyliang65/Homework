@@ -1,0 +1,8 @@
+model,bleu,gleu,samples,ckpt_path,decode,beam_width,max_len,repetition_penalty,device
+transformer_absolute_layernorm_d512_h8_e33_ff2048_bs64_lr0.0005,7.18,7.18,200,ckpt\transformer_absolute_layernorm_d512_h8_e33_ff2048_bs64_lr0.0005_best.pt,beam,5,80,1.2,cuda
+transformer_absolute_rmsnorm_d512_h8_e33_ff2048_bs64_lr0.0005,6.65,6.65,200,ckpt\transformer_absolute_rmsnorm_d512_h8_e33_ff2048_bs64_lr0.0005_best.pt,beam,5,80,1.2,cuda
+transformer_relative_rmsnorm_d512_h8_e33_ff2048_bs64_lr0.0005,3.91,3.91,200,ckpt\transformer_relative_rmsnorm_d512_h8_e33_ff2048_bs64_lr0.0005_best.pt,beam,5,80,1.2,cuda
+transformer_relative_rmsnorm_d256_h4_e22_ff1024_bs64_lr0.0005,3.62,3.62,200,ckpt\transformer_relative_rmsnorm_d256_h4_e22_ff1024_bs64_lr0.0005_best.pt,beam,5,80,1.2,cuda
+transformer_relative_layernorm_d512_h8_e33_ff2048_bs64_lr0.0005,3.34,3.34,200,ckpt\transformer_relative_layernorm_d512_h8_e33_ff2048_bs64_lr0.0005_best.pt,beam,5,80,1.2,cuda
+transformer_relative_rmsnorm_d512_h8_e33_ff2048_bs32_lr0.0005,2.70,2.70,200,ckpt\transformer_relative_rmsnorm_d512_h8_e33_ff2048_bs32_lr0.0005_best.pt,beam,5,80,1.2,cuda
+transformer_relative_rmsnorm_d512_h8_e33_ff2048_bs64_lr0.0001,1.65,1.65,200,ckpt\transformer_relative_rmsnorm_d512_h8_e33_ff2048_bs64_lr0.0001_best.pt,beam,5,80,1.2,cuda
